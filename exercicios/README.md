@@ -1,3 +1,10 @@
+<div display="flex" align="center">
+    <p>
+        Português |
+        <a href="README.en.md">English</a>
+    </p> 
+</div>
+
 Conjunto de exercícios feitos em sala de aula que não estão relacionados a uma lista.
 
 - `academia.c`: Programa que simula sistemas de gestão de alunos matriculados em uma academia. Permite a leitura, escrita e
